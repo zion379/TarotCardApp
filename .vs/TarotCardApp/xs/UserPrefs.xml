@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2D4E6832-26AA-5DC7-E150-A3D87F7F7ED7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TarotCard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DisplayCard.cs" Line="17" Column="9" />
+      <File FileName="Assets/Scripts/TarotCard.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TarotCardApp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TarotCard.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2131a6e6-b3d2-4449-ab86-73a57d04677c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

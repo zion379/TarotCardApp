@@ -1,0 +1,1133 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/zioncjohnson/Documents/GitHub/TarotCardApp
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51657
+Successfully changed project path to: /Users/zioncjohnson/Documents/GitHub/TarotCardApp
+/Users/zioncjohnson/Documents/GitHub/TarotCardApp
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 48.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/zioncjohnson/Documents/GitHub/TarotCardApp/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-20 18:54:03.373 Unity[3768:978762] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-20 18:54:03.373 Unity[3768:978762] Metal devices available: 1
+2021-07-20 18:54:03.373 Unity[3768:978762] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-20 18:54:03.373 Unity[3768:978762] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000585 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 35.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.945 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 37.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.4 MB.
+System memory in use after: 151.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 2.714728 ms (FindLiveObjects: 0.386967 ms CreateObjectMapping: 0.191963 ms MarkObjects: 2.036003 ms  DeleteObjects: 0.097910 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CardsData
+  artifactKey: Guid(372f7042dbd68f34aaa54608a40a6da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData using Guid(372f7042dbd68f34aaa54608a40a6da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd253ac569938f264113d9380ec59f3ea') in 0.006294 seconds
+  Import took 0.011331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.626995 seconds.
+  path: Assets/CardsData/MajorArcanaCards
+  artifactKey: Guid(6c381070a5a809d43b3e54c1d6778ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorArcanaCards using Guid(6c381070a5a809d43b3e54c1d6778ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3ba4aa560d01ebf54b4adac3ddedf3') in 0.003401 seconds
+  Import took 0.010130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.044541 seconds.
+  path: Assets/CardsData/MajorArcanaCards/TestCard.asset
+  artifactKey: Guid(ee15765ee9752cb42a79a6045d39ae94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorArcanaCards/TestCard.asset using Guid(ee15765ee9752cb42a79a6045d39ae94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b083ce23a91aff6afb33c360b75859f8') in 0.854362 seconds
+  Import took 0.858048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5804.599743 seconds.
+  path: Assets/CardsData/MinorArcanaCards/testminorcard.asset
+  artifactKey: Guid(e65aba02af34bf5429546e6fcceb0cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MinorArcanaCards/testminorcard.asset using Guid(e65aba02af34bf5429546e6fcceb0cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466210979bf3218fec82a5b503bcea3d') in 0.069484 seconds
+  Import took 0.147352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.155479 seconds.
+  path: Assets/Sprites/galaxygradient.jpg
+  artifactKey: Guid(db3fcd8ca8c952f44b1da52aa3e47974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/galaxygradient.jpg using Guid(db3fcd8ca8c952f44b1da52aa3e47974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f783c60f1f3e74f693870e632b722ade') in 1.333175 seconds
+  Import took 1.338987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Sprites/rick.jpg
+  artifactKey: Guid(fa3a48b6d66cf3c48b6ca937e31c5717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/rick.jpg using Guid(fa3a48b6d66cf3c48b6ca937e31c5717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee1b0bceca0545e1d40240168dfd93d') in 0.028104 seconds
+  Import took 0.032641 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001290 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.4 MB.
+System memory in use after: 162.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 2.512146 ms (FindLiveObjects: 0.359704 ms CreateObjectMapping: 0.237133 ms MarkObjects: 1.894836 ms  DeleteObjects: 0.018670 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.499231 seconds.
+  path: Assets/Scripts/DisplayCard.cs
+  artifactKey: Guid(de3c7f4e76105b5458f83082790e99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DisplayCard.cs using Guid(de3c7f4e76105b5458f83082790e99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c7053dba77873472c97e1299e67152b') in 0.398020 seconds
+  Import took 0.402856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.326915 seconds.
+  path: Assets/Scripts/MajorArcana.cs
+  artifactKey: Guid(b4702093f8837574ba0914d99580c1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MajorArcana.cs using Guid(b4702093f8837574ba0914d99580c1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da4091259b1bf227fd5075456533e66') in 0.001631 seconds
+  Import took 0.005751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003875 seconds.
+  path: Assets/Scripts/MajorArcana.cs
+  artifactKey: Guid(b4702093f8837574ba0914d99580c1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MajorArcana.cs using Guid(b4702093f8837574ba0914d99580c1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da4091259b1bf227fd5075456533e66') in 0.002298 seconds
+  Import took 0.005902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.949575 seconds.
+  path: Assets/Scripts/MinorArcana.cs
+  artifactKey: Guid(ecabdf9d9cf25d6429eba8609f1a8720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MinorArcana.cs using Guid(ecabdf9d9cf25d6429eba8609f1a8720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85804e2365a4765dcf69b7f5c7a6518') in 0.001642 seconds
+  Import took 0.005791 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001093 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.108 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.9 MB.
+System memory in use after: 166.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 5.109079 ms (FindLiveObjects: 0.482712 ms CreateObjectMapping: 0.195908 ms MarkObjects: 4.400730 ms  DeleteObjects: 0.027074 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.215851 seconds.
+  path: Assets/Scripts/DisplayCard.cs
+  artifactKey: Guid(de3c7f4e76105b5458f83082790e99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DisplayCard.cs using Guid(de3c7f4e76105b5458f83082790e99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd43f7e1373f1e97ffea7287907c8d199') in 0.006809 seconds
+  Import took 0.017226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.478146 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(9b79e305f6f44a74c83522730d86d779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(9b79e305f6f44a74c83522730d86d779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81651ebd39a3eb6c7d836c8ca9ccd708') in 0.001032 seconds
+  Import took 0.005424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014208 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(9b79e305f6f44a74c83522730d86d779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(9b79e305f6f44a74c83522730d86d779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81651ebd39a3eb6c7d836c8ca9ccd708') in 0.002342 seconds
+  Import took 0.009011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.391791 seconds.
+  path: Assets/Scripts/TarotCard
+  artifactKey: Guid(28cabddf1e3c4412fbed111f88433a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TarotCard using Guid(28cabddf1e3c4412fbed111f88433a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff88f6d80fdd9301024c4e1020a98260') in 0.003344 seconds
+  Import took 0.007215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.653207 seconds.
+  path: Assets/Scripts/TarotCard.cs
+  artifactKey: Guid(de2dbdeddbf0d4d13afecc8f71371ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TarotCard.cs using Guid(de2dbdeddbf0d4d13afecc8f71371ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93dc043507ee1bfafd40687cd364c03') in 0.003101 seconds
+  Import took 0.007783 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.1 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 2.232802 ms (FindLiveObjects: 0.247740 ms CreateObjectMapping: 0.068838 ms MarkObjects: 1.897745 ms  DeleteObjects: 0.017321 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001117 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.149 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.7 MB.
+System memory in use after: 167.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 2.584686 ms (FindLiveObjects: 0.469584 ms CreateObjectMapping: 0.131684 ms MarkObjects: 1.964688 ms  DeleteObjects: 0.016731 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 871.384417 seconds.
+  path: Assets/Scripts/TarotCard.cs
+  artifactKey: Guid(de2dbdeddbf0d4d13afecc8f71371ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TarotCard.cs using Guid(de2dbdeddbf0d4d13afecc8f71371ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e86e601fd0fac3617f0ea3a62a44af') in 0.018396 seconds
+  Import took 0.024023 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.9 MB.
+System memory in use after: 168.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 1.997307 ms (FindLiveObjects: 0.240934 ms CreateObjectMapping: 0.061059 ms MarkObjects: 1.678770 ms  DeleteObjects: 0.015629 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001094 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.1 MB.
+System memory in use after: 168.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 2.191388 ms (FindLiveObjects: 0.265062 ms CreateObjectMapping: 0.078120 ms MarkObjects: 1.826878 ms  DeleteObjects: 0.019800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.479927 seconds.
+  path: Assets/Scripts/TarotCard.cs
+  artifactKey: Guid(de2dbdeddbf0d4d13afecc8f71371ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TarotCard.cs using Guid(de2dbdeddbf0d4d13afecc8f71371ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '944d43ee9a5041b4ca73eebe3eff7cfa') in 0.006531 seconds
+  Import took 0.013161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.914789 seconds.
+  path: Assets/CardsData/MinorArcanaCards
+  artifactKey: Guid(1afda16a34464c14d9f9f293fa8e11b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MinorArcanaCards using Guid(1afda16a34464c14d9f9f293fa8e11b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b1be75eaa9a8a78f70069eafc41e77') in 0.001242 seconds
+  Import took 0.005187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.509268 seconds.
+  path: Assets/CardsData/MajorAcana
+  artifactKey: Guid(f1b8d3f9471f8441db0e0614497bbe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana using Guid(f1b8d3f9471f8441db0e0614497bbe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6b3b1d48fadcb103cd2944406309f5') in 0.003368 seconds
+  Import took 0.008047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.177249 seconds.
+  path: Assets/CardsData/SuitOfWands
+  artifactKey: Guid(29e9d7a2048594e10ace260de57a6e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands using Guid(29e9d7a2048594e10ace260de57a6e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6863e9ace13d07499d9f9f8b2566a132') in 0.002310 seconds
+  Import took 0.008869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.728055 seconds.
+  path: Assets/CardsData/SuitOfCups
+  artifactKey: Guid(3de816eb63b7243be9c161c76e49b9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups using Guid(3de816eb63b7243be9c161c76e49b9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463ce29f9124a2a92955581c0d657c45') in 0.001763 seconds
+  Import took 0.006565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.601396 seconds.
+  path: Assets/CardsData/SuitOfSwords
+  artifactKey: Guid(7981f74764cba463b8e7540507f47cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords using Guid(7981f74764cba463b8e7540507f47cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c14f30f5c797e68e6d0700a480b912f') in 0.001867 seconds
+  Import took 0.013084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002200 seconds.
+  path: Assets/CardsData/SuitOfSwords
+  artifactKey: Guid(7981f74764cba463b8e7540507f47cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords using Guid(7981f74764cba463b8e7540507f47cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c14f30f5c797e68e6d0700a480b912f') in 0.003136 seconds
+  Import took 0.009771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.790272 seconds.
+  path: Assets/CardsData/Suit
+  artifactKey: Guid(c47357ab2c72a4a5b89e1c36ddb6b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/Suit using Guid(c47357ab2c72a4a5b89e1c36ddb6b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e471ace3e547b0e889f778ed27c076d6') in 0.001270 seconds
+  Import took 0.007310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001998 seconds.
+  path: Assets/CardsData/Suit
+  artifactKey: Guid(c47357ab2c72a4a5b89e1c36ddb6b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/Suit using Guid(c47357ab2c72a4a5b89e1c36ddb6b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e471ace3e547b0e889f778ed27c076d6') in 0.001907 seconds
+  Import took 0.008265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.753651 seconds.
+  path: Assets/CardsData/SuitOfPentacles
+  artifactKey: Guid(c47357ab2c72a4a5b89e1c36ddb6b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles using Guid(c47357ab2c72a4a5b89e1c36ddb6b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa8fe9bafbdd69903cdb53f49c6e861') in 0.001312 seconds
+  Import took 0.005945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.316582 seconds.
+  path: Assets/CardsData/MajorAcana/NewTarotCard.asset
+  artifactKey: Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/NewTarotCard.asset using Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942194ddfdf45484a4a6998b8d555975') in 0.022998 seconds
+  Import took 0.027987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.398789 seconds.
+  path: Assets/CardsData/MajorAcana/TheFool.asset
+  artifactKey: Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/TheFool.asset using Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2cef24551102b58c93be60d875badf') in 0.003431 seconds
+  Import took 0.007966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.951035 seconds.
+  path: Assets/CardsData/MajorAcana/TheFool.asset
+  artifactKey: Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/TheFool.asset using Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08625c2eadce2e843cd14318aeb11dc9') in 0.004319 seconds
+  Import took 0.008814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003343 seconds.
+  path: Assets/CardsData/MajorAcana/TheFool.asset
+  artifactKey: Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/TheFool.asset using Guid(fa6d2a7173d6c44fb9072d87a91b9b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08625c2eadce2e843cd14318aeb11dc9') in 0.006848 seconds
+  Import took 0.014083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.362489 seconds.
+  path: Assets/CardsData/MajorAcana/The Magcian.asset
+  artifactKey: Guid(f23a7c594a0364ebb93587f82e167d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Magcian.asset using Guid(f23a7c594a0364ebb93587f82e167d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4379d5fdb44c0d62b71895b8ed364ae6') in 0.004838 seconds
+  Import took 0.009493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019977 seconds.
+  path: Assets/CardsData/MajorAcana/The Magcian.asset
+  artifactKey: Guid(f23a7c594a0364ebb93587f82e167d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Magcian.asset using Guid(f23a7c594a0364ebb93587f82e167d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4379d5fdb44c0d62b71895b8ed364ae6') in 0.006020 seconds
+  Import took 0.014013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.703631 seconds.
+  path: Assets/CardsData/MajorAcana/The High Priestess.asset
+  artifactKey: Guid(e26e471fdaff14de786d2f14f59aa3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The High Priestess.asset using Guid(e26e471fdaff14de786d2f14f59aa3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d42f6a7280c44ae6effd29bf5db2c5c') in 0.005349 seconds
+  Import took 0.009769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001557 seconds.
+  path: Assets/CardsData/MajorAcana/The High Priestess.asset
+  artifactKey: Guid(e26e471fdaff14de786d2f14f59aa3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The High Priestess.asset using Guid(e26e471fdaff14de786d2f14f59aa3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d42f6a7280c44ae6effd29bf5db2c5c') in 0.010022 seconds
+  Import took 0.014926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.163634 seconds.
+  path: Assets/CardsData/MajorAcana/The Empress.asset
+  artifactKey: Guid(029a8965244be46c8aceb97fb87d0298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Empress.asset using Guid(029a8965244be46c8aceb97fb87d0298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4475ce2e868ad5dc9d294c26b5ccfe') in 0.006286 seconds
+  Import took 0.011513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.945836 seconds.
+  path: Assets/CardsData/MajorAcana/The Emporer.asset
+  artifactKey: Guid(dc712a978983849c6a5d39633c70e0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Emporer.asset using Guid(dc712a978983849c6a5d39633c70e0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404870722400c699282aa0cd8143f293') in 0.003854 seconds
+  Import took 0.008185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.377566 seconds.
+  path: Assets/CardsData/MajorAcana/The Heirophant.asset
+  artifactKey: Guid(c2edf0f18401246c8a28bf31f8e08682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Heirophant.asset using Guid(c2edf0f18401246c8a28bf31f8e08682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6b4fa2f4114372e6903077854a5c7c') in 0.005336 seconds
+  Import took 0.009294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023925 seconds.
+  path: Assets/CardsData/MajorAcana/The Heirophant.asset
+  artifactKey: Guid(c2edf0f18401246c8a28bf31f8e08682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Heirophant.asset using Guid(c2edf0f18401246c8a28bf31f8e08682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6b4fa2f4114372e6903077854a5c7c') in 0.005768 seconds
+  Import took 0.011359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.595390 seconds.
+  path: Assets/CardsData/MajorAcana/NewTarotCard.asset
+  artifactKey: Guid(d3df96714bb9242b8a5f620754a6f5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/NewTarotCard.asset using Guid(d3df96714bb9242b8a5f620754a6f5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbab75ba80f95fec24a9d406b74afeca') in 0.004797 seconds
+  Import took 0.010050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.618905 seconds.
+  path: Assets/CardsData/MajorAcana/The Lovers.asset
+  artifactKey: Guid(d3df96714bb9242b8a5f620754a6f5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Lovers.asset using Guid(d3df96714bb9242b8a5f620754a6f5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6150e9a4b48190ef6444966de4be3dd9') in 0.002430 seconds
+  Import took 0.008632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.994135 seconds.
+  path: Assets/CardsData/MajorAcana/The Chariot.asset
+  artifactKey: Guid(b616aa5c2810147a789d8575e4f26f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Chariot.asset using Guid(b616aa5c2810147a789d8575e4f26f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195d5a7da0122df4ae646b14db0c3cb3') in 0.004942 seconds
+  Import took 0.009849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.298946 seconds.
+  path: Assets/CardsData/MajorAcana/Strength.asset
+  artifactKey: Guid(53a35e8d0b2fe4351be3beb34df10276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/Strength.asset using Guid(53a35e8d0b2fe4351be3beb34df10276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864ee37bf9a6b6d0def7dea149542ee2') in 0.005147 seconds
+  Import took 0.009621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.448782 seconds.
+  path: Assets/CardsData/MajorAcana/The Hermit.asset
+  artifactKey: Guid(ee120b850e7d346ec8e47dcfb98549c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Hermit.asset using Guid(ee120b850e7d346ec8e47dcfb98549c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc200fcee67a1f30aa3a13aeb89e6d7') in 0.005243 seconds
+  Import took 0.010527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.936986 seconds.
+  path: Assets/CardsData/MajorAcana/The Wheel of Fourtune.asset
+  artifactKey: Guid(abc535b2422ad4ae0bede71131a8d6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Wheel of Fourtune.asset using Guid(abc535b2422ad4ae0bede71131a8d6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fd29dd6bfe07f9a53075f126d927ba') in 0.004791 seconds
+  Import took 0.009345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.026774 seconds.
+  path: Assets/CardsData/MajorAcana/Justice.asset
+  artifactKey: Guid(f5534127b7d8d48e690b35160c43fcda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/Justice.asset using Guid(f5534127b7d8d48e690b35160c43fcda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747edbf2d2c269a044ceefbb20287514') in 0.004011 seconds
+  Import took 0.008774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.029875 seconds.
+  path: Assets/CardsData/MajorAcana/The Hanged Man.asset
+  artifactKey: Guid(f24e0219f1edd43da8cd4ca9f3e0dba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Hanged Man.asset using Guid(f24e0219f1edd43da8cd4ca9f3e0dba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330c03d0452a85307d3981381e8d4491') in 0.005595 seconds
+  Import took 0.009947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.350331 seconds.
+  path: Assets/CardsData/MajorAcana/Death.asset
+  artifactKey: Guid(fb7dc405368e5404699768d2824160da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/Death.asset using Guid(fb7dc405368e5404699768d2824160da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1c013811af949081a56b903b7faec2') in 0.004436 seconds
+  Import took 0.009107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.858757 seconds.
+  path: Assets/CardsData/MajorAcana/Temperance.asset
+  artifactKey: Guid(fef2de30e8c9642af85f3e1ba523630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/Temperance.asset using Guid(fef2de30e8c9642af85f3e1ba523630f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785662ed7bbef4f4780fe22f24e78d23') in 0.006222 seconds
+  Import took 0.010138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.381816 seconds.
+  path: Assets/CardsData/MajorAcana/The Devil.asset
+  artifactKey: Guid(8203ea80803c54c93b979ac60094c021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Devil.asset using Guid(8203ea80803c54c93b979ac60094c021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e780d4c067f062ce1d022481ac4bf58f') in 0.005483 seconds
+  Import took 0.009388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.897779 seconds.
+  path: Assets/CardsData/MajorAcana/The Tower.asset
+  artifactKey: Guid(9da8eca23cefb417eb535ffc13729ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Tower.asset using Guid(9da8eca23cefb417eb535ffc13729ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1885735e7c7c405225b04e03dce9b0fa') in 0.004339 seconds
+  Import took 0.009238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.225726 seconds.
+  path: Assets/CardsData/MajorAcana/The Star.asset
+  artifactKey: Guid(d7ae9bd9d812e43eda18902fb1208840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Star.asset using Guid(d7ae9bd9d812e43eda18902fb1208840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9acdb1de287b24dc986967456a312ce') in 0.004840 seconds
+  Import took 0.008599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.199078 seconds.
+  path: Assets/CardsData/MajorAcana/The Moon.asset
+  artifactKey: Guid(3429fef49d41a411184f0d3f59cf027c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Moon.asset using Guid(3429fef49d41a411184f0d3f59cf027c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eca97dc93bbd4377ee1d42261b14fec2') in 0.005615 seconds
+  Import took 0.010290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.232445 seconds.
+  path: Assets/CardsData/MajorAcana/The Sun
+  artifactKey: Guid(001e0470aecd94b219b54c8bb54142a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Sun using Guid(001e0470aecd94b219b54c8bb54142a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ca7865b523f8b3ceb31a39385c2313') in 0.003512 seconds
+  Import took 0.007581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.779371 seconds.
+  path: Assets/CardsData/MajorAcana/The Sun.asset
+  artifactKey: Guid(8449ee0f460b341a1beabac944eaac7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The Sun.asset using Guid(8449ee0f460b341a1beabac944eaac7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4f5946c2961d6cc08b2cf93f535e1f') in 0.004187 seconds
+  Import took 0.009231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.271733 seconds.
+  path: Assets/CardsData/MajorAcana/Judgement.asset
+  artifactKey: Guid(18a4016856ca3424bad7dcf1daee2de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/Judgement.asset using Guid(18a4016856ca3424bad7dcf1daee2de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab8da854edb8ec6d29c48b386d07801') in 0.005427 seconds
+  Import took 0.010358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.341084 seconds.
+  path: Assets/CardsData/MajorAcana/The World.asset
+  artifactKey: Guid(ca34e9c2415a24d07857ddea31d1e1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/MajorAcana/The World.asset using Guid(ca34e9c2415a24d07857ddea31d1e1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd3440e44c9b803650c58de04de7a23') in 0.004013 seconds
+  Import took 0.009535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.142278 seconds.
+  path: Assets/CardsData/SuitOfWands/Seven of wands.asset
+  artifactKey: Guid(970548e97ef24415b849cf591fcc5b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Seven of wands.asset using Guid(970548e97ef24415b849cf591fcc5b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a7ede28d5f60b357b2f7e2bbbfdae6') in 0.004646 seconds
+  Import took 0.010467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.498669 seconds.
+  path: Assets/CardsData/SuitOfWands/Four of wands.asset
+  artifactKey: Guid(8c292835e3ff44b1fa4b67bc789bb777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Four of wands.asset using Guid(8c292835e3ff44b1fa4b67bc789bb777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89531dd9f457175e7a363fa7138bd5c') in 0.006466 seconds
+  Import took 0.010987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001127 seconds.
+  path: Assets/CardsData/SuitOfWands/Four of wands.asset
+  artifactKey: Guid(8c292835e3ff44b1fa4b67bc789bb777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Four of wands.asset using Guid(8c292835e3ff44b1fa4b67bc789bb777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89531dd9f457175e7a363fa7138bd5c') in 0.008057 seconds
+  Import took 0.015621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.082835 seconds.
+  path: Assets/CardsData/SuitOfWands/Ace of wands.asset
+  artifactKey: Guid(61092de955334440a88f8ffc6407f383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Ace of wands.asset using Guid(61092de955334440a88f8ffc6407f383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3bc72843784fde21c9ae66588a9bc2') in 0.005748 seconds
+  Import took 0.010569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.110092 seconds.
+  path: Assets/CardsData/SuitOfWands/Ten of Wands.asset
+  artifactKey: Guid(9e99ac0e69b7640f085a6ad8b3e76575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Ten of Wands.asset using Guid(9e99ac0e69b7640f085a6ad8b3e76575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46743728638c1f6bd8d98318d40d47f4') in 0.005237 seconds
+  Import took 0.009032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.431916 seconds.
+  path: Assets/CardsData/SuitOfWands/Nine of  wands.asset
+  artifactKey: Guid(576282807682543209ce12752dbb9c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Nine of  wands.asset using Guid(576282807682543209ce12752dbb9c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d7d7edce167374c59cd9239ab02278') in 0.004934 seconds
+  Import took 0.009564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.549270 seconds.
+  path: Assets/CardsData/SuitOfWands/Eight of wands.asset
+  artifactKey: Guid(aecc7bdd953274a11a725bafea6dad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Eight of wands.asset using Guid(aecc7bdd953274a11a725bafea6dad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c053a6bab491e8c07cab42237fbc58d8') in 0.006040 seconds
+  Import took 0.010621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.432411 seconds.
+  path: Assets/CardsData/SuitOfWands/NewTarotCard.asset
+  artifactKey: Guid(1afc238ff8b2f4e299fcea8dbbdedace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/NewTarotCard.asset using Guid(1afc238ff8b2f4e299fcea8dbbdedace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71bfd926420527a9050d60fad59268ca') in 0.004528 seconds
+  Import took 0.008610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.286900 seconds.
+  path: Assets/CardsData/SuitOfWands/six of wands.asset
+  artifactKey: Guid(1afc238ff8b2f4e299fcea8dbbdedace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/six of wands.asset using Guid(1afc238ff8b2f4e299fcea8dbbdedace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f42edc4798b4ae8726d8ac8bd04d3e4') in 0.003366 seconds
+  Import took 0.008832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.013803 seconds.
+  path: Assets/CardsData/SuitOfWands/Five of wands.asset
+  artifactKey: Guid(82d96d7d7859e498b954b0a69d1ed047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Five of wands.asset using Guid(82d96d7d7859e498b954b0a69d1ed047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9c7020a5c7b73ddd4d59b7ce42443f') in 0.005715 seconds
+  Import took 0.010180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.923361 seconds.
+  path: Assets/CardsData/SuitOfWands/Three of wands.asset
+  artifactKey: Guid(df0db089d482a466496573e096944427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/Three of wands.asset using Guid(df0db089d482a466496573e096944427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e186c09525f7dbdf70fced9324cd5fd') in 0.005331 seconds
+  Import took 0.010287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.929550 seconds.
+  path: Assets/CardsData/SuitOfWands/two of wands.asset
+  artifactKey: Guid(e05b2f64ed11445d7872b8e375ef9fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/two of wands.asset using Guid(e05b2f64ed11445d7872b8e375ef9fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0fe181a1c9bf94edf282c95bfc5ac31') in 0.005210 seconds
+  Import took 0.009755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.197494 seconds.
+  path: Assets/CardsData/SuitOfWands/NewTarotCard.asset
+  artifactKey: Guid(8e73bfa19ded941a1bfc5d37aed41ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/NewTarotCard.asset using Guid(8e73bfa19ded941a1bfc5d37aed41ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393ae096141aa473c97418859698249e') in 0.005096 seconds
+  Import took 0.009391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.273009 seconds.
+  path: Assets/CardsData/SuitOfWands/page of wands.asset
+  artifactKey: Guid(8e73bfa19ded941a1bfc5d37aed41ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/page of wands.asset using Guid(8e73bfa19ded941a1bfc5d37aed41ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699ebcee367331c9df016312f104f95d') in 0.003872 seconds
+  Import took 0.008451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.634393 seconds.
+  path: Assets/CardsData/SuitOfWands/queen of wands.asset
+  artifactKey: Guid(48c90b47ce1e04b8db0b266edb696543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/queen of wands.asset using Guid(48c90b47ce1e04b8db0b266edb696543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fbc8095dbd25bbcbb796a2400801eea') in 0.005730 seconds
+  Import took 0.010106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.178747 seconds.
+  path: Assets/CardsData/SuitOfWands/King of wands.asset
+  artifactKey: Guid(6479769da4bbf4d559ffe6c1235f20fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/King of wands.asset using Guid(6479769da4bbf4d559ffe6c1235f20fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1dfc11820512d81cdf49daa9d12a4a') in 0.005880 seconds
+  Import took 0.010721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.255800 seconds.
+  path: Assets/CardsData/SuitOfWands/knight of wands.asset
+  artifactKey: Guid(5ba7c2cd95fec43659e705d737ee1a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfWands/knight of wands.asset using Guid(5ba7c2cd95fec43659e705d737ee1a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ed4dffa25998f350669dd64e1f47fa') in 0.006449 seconds
+  Import took 0.012686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.617818 seconds.
+  path: Assets/CardsData/SuitOfCups/King of cups.asset
+  artifactKey: Guid(511a710dab85f49e5bbecb666b0de908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/King of cups.asset using Guid(511a710dab85f49e5bbecb666b0de908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78d10dbecf23cbccd378a4dde8ae3e9') in 0.005849 seconds
+  Import took 0.010558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.528056 seconds.
+  path: Assets/CardsData/SuitOfCups/Queen of cups.asset
+  artifactKey: Guid(8fcf777d86acf4c1290d8432ce369f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/Queen of cups.asset using Guid(8fcf777d86acf4c1290d8432ce369f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92283c5c907bab10196012ea5c190b28') in 0.006426 seconds
+  Import took 0.011005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.464513 seconds.
+  path: Assets/CardsData/SuitOfCups/Knight of cups.asset
+  artifactKey: Guid(165389b473aec4b9ba137fb8a9c3d64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/Knight of cups.asset using Guid(165389b473aec4b9ba137fb8a9c3d64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80983c22db2e4533cb05ffbedca660ea') in 0.005282 seconds
+  Import took 0.009807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.319958 seconds.
+  path: Assets/CardsData/SuitOfCups/Page of cups.asset
+  artifactKey: Guid(f6bb476408ca5406881f09406cc807ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/Page of cups.asset using Guid(f6bb476408ca5406881f09406cc807ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a8dd06a85901ac3c3b8cfc2ea4b44c') in 0.005768 seconds
+  Import took 0.010534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.172784 seconds.
+  path: Assets/CardsData/SuitOfCups/Ten of cups.asset
+  artifactKey: Guid(611ae8084f0bf4b56b8a7de7e82e2b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/Ten of cups.asset using Guid(611ae8084f0bf4b56b8a7de7e82e2b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46139233438178040b262abb922aa4ef') in 0.005193 seconds
+  Import took 0.010113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.236204 seconds.
+  path: Assets/CardsData/SuitOfCups/nine of cups.asset
+  artifactKey: Guid(1915be89c998d4c79854c45da6939b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/nine of cups.asset using Guid(1915be89c998d4c79854c45da6939b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9c38409705df86dd7acffc72b72914') in 0.006278 seconds
+  Import took 0.010560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.452598 seconds.
+  path: Assets/CardsData/SuitOfCups/eight of cups.asset
+  artifactKey: Guid(5e87281dca7e24049bedb3843ce1844d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/eight of cups.asset using Guid(5e87281dca7e24049bedb3843ce1844d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e1e72096c0888b5fd8a3430dc9dcd6') in 0.005996 seconds
+  Import took 0.010614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.992661 seconds.
+  path: Assets/CardsData/SuitOfCups/seven of cups.asset
+  artifactKey: Guid(e05867ea4e23141f5b8a6f15031f60c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/seven of cups.asset using Guid(e05867ea4e23141f5b8a6f15031f60c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0353aa67a9271e7bd2f787661f4edd') in 0.006049 seconds
+  Import took 0.010443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.166974 seconds.
+  path: Assets/CardsData/SuitOfCups/six of cups.asset
+  artifactKey: Guid(805b31c6feea0464bb4f0b654034ff46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/six of cups.asset using Guid(805b31c6feea0464bb4f0b654034ff46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6086d1c0ac81dd1431f0ce1450bd43a5') in 0.004999 seconds
+  Import took 0.008665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.611688 seconds.
+  path: Assets/CardsData/SuitOfCups/five of cups.asset
+  artifactKey: Guid(07824dd3f88904dffb546b6eaeed2784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/five of cups.asset using Guid(07824dd3f88904dffb546b6eaeed2784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613ae258aa7247bf9a58dedaaf02e984') in 0.005598 seconds
+  Import took 0.010535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.233612 seconds.
+  path: Assets/CardsData/SuitOfCups/four of cups.asset
+  artifactKey: Guid(629a3beac862c45f1b2a40719985ba4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/four of cups.asset using Guid(629a3beac862c45f1b2a40719985ba4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06857c487e230fbc0f9fe571396bf8a') in 0.005822 seconds
+  Import took 0.010192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.113563 seconds.
+  path: Assets/CardsData/SuitOfCups/three of cups.asset
+  artifactKey: Guid(daed62f909bdd47de898d35f3fea2cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/three of cups.asset using Guid(daed62f909bdd47de898d35f3fea2cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76313d338d28ee633425f446cbed395') in 0.004676 seconds
+  Import took 0.009318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.657568 seconds.
+  path: Assets/CardsData/SuitOfCups/two of cups.asset
+  artifactKey: Guid(8739362d1d49446bf862ee22453e355c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/two of cups.asset using Guid(8739362d1d49446bf862ee22453e355c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8a5ece94a45726b1305c0d00c7a12e') in 0.005813 seconds
+  Import took 0.010192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.308034 seconds.
+  path: Assets/CardsData/SuitOfCups/Ace of cups.asset
+  artifactKey: Guid(1a26ba95f468747c991207cdc86b7448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfCups/Ace of cups.asset using Guid(1a26ba95f468747c991207cdc86b7448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acdc5bd628650930de611bfbcef47a0d') in 0.005541 seconds
+  Import took 0.011656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.177724 seconds.
+  path: Assets/CardsData/SuitOfSwords/King of swords.asset
+  artifactKey: Guid(e1b4271fe5d614005965d1b63a176ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/King of swords.asset using Guid(e1b4271fe5d614005965d1b63a176ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f9c91db642308ebc535f4603841316') in 0.005131 seconds
+  Import took 0.010855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.736692 seconds.
+  path: Assets/CardsData/SuitOfSwords/knight of swords.asset
+  artifactKey: Guid(3aa4e20b5122d433598513d61839f1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/knight of swords.asset using Guid(3aa4e20b5122d433598513d61839f1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77d400ef9185f48279fdb5fb31d34a1') in 0.004745 seconds
+  Import took 0.008661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.252743 seconds.
+  path: Assets/CardsData/SuitOfSwords/queen of swords.asset
+  artifactKey: Guid(44b11f2b1b4794ac98a3274251be49b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/queen of swords.asset using Guid(44b11f2b1b4794ac98a3274251be49b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a937616f61ab094901acef7cd9d02a64') in 0.005730 seconds
+  Import took 0.010264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.658609 seconds.
+  path: Assets/CardsData/SuitOfSwords/page of swords.asset
+  artifactKey: Guid(322ab21636cd44c9db01e00e6706ea5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/page of swords.asset using Guid(322ab21636cd44c9db01e00e6706ea5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e95a87ddbe9390a668d49c2d3f93302') in 0.005321 seconds
+  Import took 0.009364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.896124 seconds.
+  path: Assets/CardsData/SuitOfSwords/Ten of swords.asset
+  artifactKey: Guid(2cb32ccf491964b4bbb210506530033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Ten of swords.asset using Guid(2cb32ccf491964b4bbb210506530033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f23b61af753ddb20c44ed6730d0882') in 0.005184 seconds
+  Import took 0.009787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002073 seconds.
+  path: Assets/CardsData/SuitOfSwords/Ten of swords.asset
+  artifactKey: Guid(2cb32ccf491964b4bbb210506530033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Ten of swords.asset using Guid(2cb32ccf491964b4bbb210506530033e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f23b61af753ddb20c44ed6730d0882') in 0.008170 seconds
+  Import took 0.014116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.912634 seconds.
+  path: Assets/CardsData/SuitOfSwords/Nine of swords.asset
+  artifactKey: Guid(79031771f1ad64a21a646c85c36e8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Nine of swords.asset using Guid(79031771f1ad64a21a646c85c36e8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0257b1d3233dc464e236763acce2eb75') in 0.005937 seconds
+  Import took 0.010554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.506129 seconds.
+  path: Assets/CardsData/SuitOfSwords/Eight of swords.asset
+  artifactKey: Guid(7e5d3152f86304cef8a34b96649924b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Eight of swords.asset using Guid(7e5d3152f86304cef8a34b96649924b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd455d6fd5422817d3b927ccc745227') in 0.006240 seconds
+  Import took 0.010065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.909978 seconds.
+  path: Assets/CardsData/SuitOfSwords/Seven of swords.asset
+  artifactKey: Guid(0b11ab255ef5c40fe8c4d7a5256a82ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Seven of swords.asset using Guid(0b11ab255ef5c40fe8c4d7a5256a82ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f2a9571a818685e2821060b1384316b') in 0.005628 seconds
+  Import took 0.010303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.057425 seconds.
+  path: Assets/CardsData/SuitOfSwords/Six of swords.asset
+  artifactKey: Guid(f11fd4336a8c84eb28b096c0427915af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Six of swords.asset using Guid(f11fd4336a8c84eb28b096c0427915af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89433a7282bcef42cb3faef5604ba4c6') in 0.005507 seconds
+  Import took 0.010519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.781914 seconds.
+  path: Assets/CardsData/SuitOfSwords/Five of swords.asset
+  artifactKey: Guid(e88431f1f9f9443c6a488b8aae82ff4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Five of swords.asset using Guid(e88431f1f9f9443c6a488b8aae82ff4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57299b79784b5153cf67925f0acd984b') in 0.004254 seconds
+  Import took 0.008024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.773441 seconds.
+  path: Assets/CardsData/SuitOfSwords/Three of swords.asset
+  artifactKey: Guid(c96940810e20a4622a6819322462878f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Three of swords.asset using Guid(c96940810e20a4622a6819322462878f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931b091f746c219a715bc4f9b51026c2') in 0.004945 seconds
+  Import took 0.008452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.155173 seconds.
+  path: Assets/CardsData/SuitOfSwords/four of swords.asset
+  artifactKey: Guid(8059f5f9bb3834c448df39ec2d807144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/four of swords.asset using Guid(8059f5f9bb3834c448df39ec2d807144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41202b211e3727e7c0ce78f5064f3536') in 0.006229 seconds
+  Import took 0.010684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.898115 seconds.
+  path: Assets/CardsData/SuitOfSwords/Two of swords.asset
+  artifactKey: Guid(5430b0a55c9d14bfba7c01010ef5d684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Two of swords.asset using Guid(5430b0a55c9d14bfba7c01010ef5d684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f19120b43b509495eafbec0bf07ffdc') in 0.005624 seconds
+  Import took 0.010711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.319532 seconds.
+  path: Assets/CardsData/SuitOfSwords/Ace of swords.asset
+  artifactKey: Guid(40d2d3b066be6452da2aa3b330f0f860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfSwords/Ace of swords.asset using Guid(40d2d3b066be6452da2aa3b330f0f860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437eca039f1644622f6f268c6f6e3d56') in 0.005334 seconds
+  Import took 0.009098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.371806 seconds.
+  path: Assets/CardsData/SuitOfPentacles/Ace of Pentacles.asset
+  artifactKey: Guid(9cfee76ea715044bfbc8a0f5a99bbe5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/Ace of Pentacles.asset using Guid(9cfee76ea715044bfbc8a0f5a99bbe5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a990ceb5aeb3b2a888df6e5281f052e6') in 0.006211 seconds
+  Import took 0.011210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.103514 seconds.
+  path: Assets/CardsData/SuitOfPentacles/2 of Pentacles.asset
+  artifactKey: Guid(2ebac554c7937443a8840fdf4e10613d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/2 of Pentacles.asset using Guid(2ebac554c7937443a8840fdf4e10613d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cf7f821da8e361d50830e53a9b09cb') in 0.006605 seconds
+  Import took 0.012585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.417930 seconds.
+  path: Assets/CardsData/SuitOfPentacles/3 of Pentacles.asset
+  artifactKey: Guid(420698df8bc91445ab50e9305a50128d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/3 of Pentacles.asset using Guid(420698df8bc91445ab50e9305a50128d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a03c1661eb7aa5d7b5ef0a460275fc') in 0.004259 seconds
+  Import took 0.008568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.731970 seconds.
+  path: Assets/CardsData/SuitOfPentacles/4 of Pentacles.asset
+  artifactKey: Guid(a1817453f4bd44afd843a5cbbcf56a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/4 of Pentacles.asset using Guid(a1817453f4bd44afd843a5cbbcf56a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766b84fd94e9a569de6749910270728e') in 0.006088 seconds
+  Import took 0.010680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.649399 seconds.
+  path: Assets/CardsData/SuitOfPentacles/5 of Pentacles
+  artifactKey: Guid(44e4a4ba3bff74a25aa3bb9a735848d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/5 of Pentacles using Guid(44e4a4ba3bff74a25aa3bb9a735848d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '689fe538fbe783e6b1fff99a3ec03292') in 0.002056 seconds
+  Import took 0.007600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.125965 seconds.
+  path: Assets/CardsData/SuitOfPentacles/6 of Pentacles.asset
+  artifactKey: Guid(060815c00651c42c38330b362cdec5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/6 of Pentacles.asset using Guid(060815c00651c42c38330b362cdec5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6fe8bf37cc441cffa443f6d036ba81') in 0.005670 seconds
+  Import took 0.009723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.168356 seconds.
+  path: Assets/CardsData/SuitOfPentacles/7 of Pentacles.asset
+  artifactKey: Guid(f7a0c385c23dd46c9a42918bf278a556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/7 of Pentacles.asset using Guid(f7a0c385c23dd46c9a42918bf278a556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd333ece7966e5b7add62e82149ad7c16') in 0.006185 seconds
+  Import took 0.010779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.428466 seconds.
+  path: Assets/CardsData/SuitOfPentacles/8 of Pentacles.asset
+  artifactKey: Guid(bf7592e3b60bb48a6a049c217c3dd866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/8 of Pentacles.asset using Guid(bf7592e3b60bb48a6a049c217c3dd866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0d2ccad4e5904c05bd91b6d98ead24') in 0.005549 seconds
+  Import took 0.009309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.797996 seconds.
+  path: Assets/CardsData/SuitOfPentacles/9 of pentacles.asset
+  artifactKey: Guid(0593b8026b0db433f817b82bd3521bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/9 of pentacles.asset using Guid(0593b8026b0db433f817b82bd3521bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efba186d5044b374fc944a2249b9594') in 0.005766 seconds
+  Import took 0.009581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.333942 seconds.
+  path: Assets/CardsData/SuitOfPentacles/10 of Pentacles.asset
+  artifactKey: Guid(cb1dafcc5ff95451bb302d1e986bed8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/10 of Pentacles.asset using Guid(cb1dafcc5ff95451bb302d1e986bed8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08e8331c0a195c01bc8f493f5de5546') in 0.005461 seconds
+  Import took 0.009505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.005041 seconds.
+  path: Assets/CardsData/SuitOfPentacles/King of Pentacles.asset
+  artifactKey: Guid(87fb1a3b3ac34490ca93648d9d79d6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/King of Pentacles.asset using Guid(87fb1a3b3ac34490ca93648d9d79d6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc76d6ad8f2c4923b74d50218246a39d') in 0.006229 seconds
+  Import took 0.009908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.491747 seconds.
+  path: Assets/CardsData/SuitOfPentacles/Queen of Pentacles.asset
+  artifactKey: Guid(533314216e53e4246963da2afe65af73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/Queen of Pentacles.asset using Guid(533314216e53e4246963da2afe65af73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a6656b1010714b82fb272c442c496d') in 0.005171 seconds
+  Import took 0.009721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.220921 seconds.
+  path: Assets/CardsData/SuitOfPentacles/Page of Pentacles.asset
+  artifactKey: Guid(4aa45811130ae49b0b77da51eed15bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/Page of Pentacles.asset using Guid(4aa45811130ae49b0b77da51eed15bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ba0bcc47dc8406c8fc8583f8a5afe7') in 0.005507 seconds
+  Import took 0.010211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.777067 seconds.
+  path: Assets/CardsData/SuitOfPentacles/Knight of Pentacles.asset
+  artifactKey: Guid(e3a3901fca07a43d5a0ea4b1bf48bd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardsData/SuitOfPentacles/Knight of Pentacles.asset using Guid(e3a3901fca07a43d5a0ea4b1bf48bd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e728f0ea41394ad3fd53ef0889ea5b9b') in 0.004885 seconds
+  Import took 0.008542 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.084 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.8 MB.
+System memory in use after: 168.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.405887 ms (FindLiveObjects: 0.363289 ms CreateObjectMapping: 0.106310 ms MarkObjects: 1.913345 ms  DeleteObjects: 0.019969 ms)
+
